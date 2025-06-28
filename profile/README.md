@@ -1,6 +1,6 @@
 # Crash The Routines
 
-[Русский](../docs/README_Ru.md) [Spanish](../docs/README_ES.md)
+[Русский](README_Ru.md) [Spanish](README_ES.md)
 
 I am Adam Lean, I software developer
 

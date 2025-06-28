@@ -1,31 +1,23 @@
 # Crash The Routines
 
-[Русский](README_Ru.md) [English](../README.md)
+[Русский](README_Ru.md) [English](README.md)
 
 Hola, soy Adam Lean, desarrollador web, músico y bloguero.
 Crash The Routines: este es el nombre que uso para crear sitios web y aplicaciones.
 
 ## Instrumentos
 
-### Desarrollo
-
 <img src="../assets/svg/html5.svg" width="65" height="65"> <img src="../assets/svg/css3.svg" width="65" height="65"> <img src="../assets/svg/JS.svg" width="65" height="65"> <img src="../assets/svg/python.svg" width="65" height="65"> <img src="../assets/svg/chatgpt.svg" width="65" height="65" color="green">
 <img src="../assets/svg/visual-studio-code-logo-svgrepo-com.svg" width="65" height="65"> <img src="../assets/svg/sublime-text-svgrepo-com.svg" width="65" height="65"> <img src="../assets/svg/git-icon-logo-svgrepo-com.svg" width="65" height="65">
 
 <!-- <img src="../assets/svg/React.svg" width="65" height="65"> <img src="../assets/svg/typescript-logo-svgrepo-com.svg" width="65" height="65"> -->
 
-### Video y Gráficos
-
-<img src="../assets/svg/davinci.svg" width="65" height="65"> <img src="../assets/svg/figma-svgrepo-com.svg" width="65" height="65"> <img src="../assets/svg/adobe-premiere-svgrepo-com.svg" width="65" height="65">
-<img src="../assets/svg/adobe-photoshop-svgrepo-com.svg" width="65" height="65"> <img src="../assets/svg/adobe-illustrator-svgrepo-com.svg" width="65" height="65">
-
-### Música
-
-<img src="../assets/svg/flstudio.svg" width="65" height="65"> <img src="../assets/svg/reaper.svg" width="65" height="65">
-
 ## Contactos
 
-EMail: crashtheroutine@gmail.com
+- EMail: crashtheroutine@gmail.com
+- [Instagram](https://www.instagram.com/crashtheroutines)
+- [Telegram](https://t.me/crashtheroutines)
+- [GitHub Orgranization](https://github.com/CrashTheRoutines)
 
 ## Autor & Marca
 
