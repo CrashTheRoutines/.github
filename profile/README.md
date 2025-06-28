@@ -4,6 +4,8 @@
 
 I am Adam Lean, I software developer
 
+**Crash The Routines** is a "workshop" for the mass production of websites, applications, scripts and bots for messengers.
+
 ## Tools
 
 <img src="../assets/svg/html5.svg" width="65" height="65"> <img src="../assets/svg/css3.svg" width="65" height="65"> <img src="../assets/svg/JS.svg" width="65" height="65"> <img src="../assets/svg/python.svg" width="65" height="65"> <img src="../assets/svg/php.svg" width="65" height="65"> <img src="../assets/svg/chatgpt.svg" width="65" height="65" color="green">
