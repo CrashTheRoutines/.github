@@ -1,12 +1,26 @@
-## Hi there 👋
+# Crash The Routines
 
-<!--
+[Русский](./docs/README_Ru.md) [Spanish](./docs/README_ES.md)
 
-**Here are some ideas to get you started:**
+I am Adam Lean, I software developer
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Tools
+
+### Development
+
+<img src="./assets/svg/html5.svg" width="65" height="65"> <img src="./assets/svg/css3.svg" width="65" height="65"> <img src="./assets/svg/JS.svg" width="65" height="65"> <img src="./assets/svg/python.svg" width="65" height="65"> <img src="./assets/svg/php.svg" width="65" height="65"> <img src="./assets/svg/chatgpt.svg" width="65" height="65" color="green">
+<img src="./assets/svg/visual-studio-code-logo-svgrepo-com.svg" width="65" height="65"> <img src="./assets/svg/sublime-text-svgrepo-com.svg" width="65" height="65"> <img src="./assets/svg/git-icon-logo-svgrepo-com.svg" width="65" height="65"> <img src="./assets/svg/wordpress.svg" width="65" height="65"> <img src="./assets/svg/tilda.svg" width="65" height="65">
+
+<!-- <img src="./assets/svg/React.svg" width="65" height="65"> <img src="./assets/svg/typescript-logo-svgrepo-com.svg" width="65" height="65"> -->
+
+## Links
+
+- EMail: crashtheroutine@gmail.com
+- [Instagram](https://www.instagram.com/crashtheroutines)
+- [Telegram](https://t.me/crashtheroutines)
+- [GitHub Orgranization](https://github.com/CrashTheRoutines)
+
+## Author & Branding
+
+This project is developed by [CrashTheRoutines](https://crashtheroutines.netlify.app).  
+The code is MIT licensed, but the brand name and visual identity are protected and may not be reused
