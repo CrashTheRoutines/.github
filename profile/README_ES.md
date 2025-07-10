@@ -1,8 +1,6 @@
 # Crash The Routines
 
-[Русский](README_Ru.md) [English](README.md)
-
-Hola, soy Adam Lean, yo soy desarrollador
+[English](README.md)
 
 **Crash The Routines** es un "taller" para la producción masiva de sitios web, aplicaciones, scripts y bots para mensajeros.
 
