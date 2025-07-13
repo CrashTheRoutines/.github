@@ -1,7 +1,5 @@
 # Crash The Routines
 
-[Spanish](README_ES.md)
-
 **Crash The Routines** is a "workshop" for the mass production of websites, applications, scripts and bots for messengers.
 
 ## Tools
